@@ -4,7 +4,7 @@ ArtML is a Machine Learning project that uses a Neural Network to identify the a
 
 ## Requirements specification
 
-*Requirements below are numbered according to their priority. The priority is indicated by the number in square brackets, with 1 being highest priority and 3 lowest.*
+*Requirements below are numbered according to their priority. The priority is indicated by the number in square brackets, with 1 being the highest priority and 3 being the lowest.*
 
 ### Functional requirements
 
