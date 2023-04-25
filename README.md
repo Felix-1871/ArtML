@@ -4,19 +4,21 @@ ArtML is a Machine Learning project that uses a Neural Network to identify the a
 
 ## Requirements specification
 
+*Requirements below are numbered according to their priority. The priority is indicated by the number in square brackets, with 1 being highest priority and 3 lowest.*
+
 ### Functional requirements
 
-- [ ] The system should be able to take an input image of a painting and output the predicted artist who created it.
-- [ ] The system should be able to identify the author of paintings from a given dataset with a high degree of accuracy.
-- [ ] The system should be able to handle different types of paintings, such as oil paintings, watercolors, or sketches.
-- [ ] The system should be able to handle paintings from different time periods and styles.
+- [ ] The system should be able to take an input image of a painting and output the predicted artist who created it. [1]
+- [ ] The system should be able to identify the author of paintings from a given dataset with a high degree of accuracy. [2]
+- [ ] The system should be able to handle different types of paintings, such as oil paintings, watercolors, or sketches. [3]
+- [ ] The system should be able to handle paintings from different time periods and styles. [3]
 
 ### Non-functional requirements
 
-- [ ] The system should be reliable and consistently produce accurate predictions.
-- [ ] The system should have a fast response time, with predictions made in a reasonable amount of time.
-- [ ] The system should be able to handle large datasets efficiently, without requiring excessive computational resources.
-- [ ] The system should be user-friendly, with a simple and intuitive interface for users to input their images and view the predicted artist.
+- [ ] The system should be reliable and consistently produce accurate predictions. [2]
+- [ ] The system should have a fast response time, with predictions made in a reasonable amount of time. [1]
+- [ ] The system should be able to handle large datasets efficiently, without requiring excessive computational resources. [3]
+- [ ] The system should be user-friendly, with a simple and intuitive interface for users to input their images and view the predicted artist. [3]
 
 ## Architecture
 
