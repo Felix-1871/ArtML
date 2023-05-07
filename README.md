@@ -8,8 +8,8 @@ ArtML is a Machine Learning project that uses a Neural Network to identify the a
 
 ### Functional requirements
 
-- [ ] The system should be able to take an input image of a painting and output the predicted artist who created it. [1]
-- [ ] The system should be able to identify the author of paintings from a given dataset with a high degree of accuracy. [2]
+- [ ] The system should be able to classify the author of a painting based on the dataset. [1]
+- [ ] The system should be able to take an input image of a painting and output the predicted artist who created it. [2]
 - [ ] The system should be able to handle different types of paintings, such as oil paintings, watercolors, or sketches. [3]
 - [ ] The system should be able to handle paintings from different time periods and styles. [3]
 
