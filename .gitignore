@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data
+data/
+
+# Unfinished python scripts
+*.py
+# But not Django scripts
+!mlapp/*
+!mlapp/*/*
