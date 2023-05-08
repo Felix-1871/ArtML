@@ -132,7 +132,8 @@ dmypy.json
 data/
 
 # Unfinished python scripts
-*.py
-# But not Django scripts
-!mlapp/*
-!mlapp/*/*
+all.py
+cnn_model.py
+lib.py
+ML.py
+prepare_dataset.py
