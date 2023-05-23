@@ -2,18 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Interface</title>
+    <title>Edit</title>
 </head>
 <body>
-    <h1>Interface</h1>
-    <form action="{% url 'upload' %}" method="post" enctype="multipart/form-data">
-        {% csrf_token %}
-        <input type="file" name="file" id="file">
-        <input type="submit" value="Upload">
-    </form>
+    <h1>Edit</h1>
     <form action="{% url 'edit' %}" method="post" enctype="multipart/form-data">
         {% csrf_token %}
         <input type="file" name="file" id="file">
         <input type="submit" value="Edit">
     </form>
+</body>
 </html>
