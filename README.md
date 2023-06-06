@@ -69,7 +69,7 @@ The data used for this project most likely will be the [Painter by Numbers](http
 
 ## License
 
-*Under development*
+*MIT Licence(X11 Licence)*
 
 ## Authors
 
